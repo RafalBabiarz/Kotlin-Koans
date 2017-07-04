@@ -4,3 +4,10 @@ workspace.xml
 .gradle
 build
 local.properties
+
+.gradle/**
+gradle-wrapper
+gradle-wrapper*
+gradlew*
+
+.idea/**
